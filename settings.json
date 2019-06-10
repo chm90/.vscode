@@ -1,0 +1,27 @@
+{
+    "go.useLanguageServer": true,
+    "go.testFlags": [
+        "-v",
+        "-count=1",
+        "-mod=vendor"
+    ],
+    "window.zoomLevel": 0,
+    
+    "go.buildOnSave": "off",
+    "go.vetOnSave": "package",
+    "go.gocodeAutoBuild": false,
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.buildFlags": [
+        "-v",
+    ],
+    "go.docsTool": "godoc",
+    "go.gotoSymbol.includeImports": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.formatTool": "goreturns",
+    "go.toolsEnvVars": {
+        "GOFLAGS": "-mod=vendor",
+        "GO111MODULE": "on",
+    },
+    "go.testEnvVars": {},
+}
