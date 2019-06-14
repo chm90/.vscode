@@ -26,4 +26,7 @@
     "go.testEnvVars": {},
     "git.autofetch": true,
     "explorer.confirmDelete": false,
+    "python.linting.flake8Enabled": true,
+    "workbench.colorTheme": "Visual Studio Light",
+    "editor.renderWhitespace": "all",
 }
