@@ -21,5 +21,50 @@
         "key": "cmd+t cmd+left",
         "command": "workbench.action.terminal.focusPrevious",
         "when": "terminalFocus"
+    },
+    {
+        "key": "cmd+t cmd+f",
+        "command": "workbench.action.terminal.focus"
+    },
+    {
+        "key": "cmd+e cmd+f",
+        "command": "workbench.action.focusActiveEditorGroup"
+    },
+    {
+        "key": "cmd+t 1",
+        "command": "workbench.action.terminal.focusAtIndex1"
     }
+    {
+        "key": "cmd+t 2",
+        "command": "workbench.action.terminal.focusAtIndex2"
+    }
+    {
+        "key": "cmd+t 3",
+        "command": "workbench.action.terminal.focusAtIndex3"
+    }
+    {
+        "key": "cmd+t 4",
+        "command": "workbench.action.terminal.focusAtIndex4"
+    }
+    {
+        "key": "cmd+t 5",
+        "command": "workbench.action.terminal.focusAtIndex5"
+    }
+    {
+        "key": "cmd+t 6",
+        "command": "workbench.action.terminal.focusAtIndex6"
+    }
+    {
+        "key": "cmd+t 7",
+        "command": "workbench.action.terminal.focusAtIndex7"
+    }
+    {
+        "key": "cmd+t 8",
+        "command": "workbench.action.terminal.focusAtIndex8"
+    }
+    {
+        "key": "cmd+t 9",
+        "command": "workbench.action.terminal.focusAtIndex9"
+    }
+    
 ]
