@@ -24,4 +24,6 @@
         "GO111MODULE": "on",
     },
     "go.testEnvVars": {},
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
 }
